@@ -1,9 +1,9 @@
 {
-  "name": "whitelist",
+  "name": "everlog",
   "version": "1.0.0",
-  "description": "whitelist smart contract",
+  "description": "",
   "main": "",
-  "git": "https://github.com/web3senior/whitelistfactory",
+  "git": "",
   "scripts": {
     "tasks": "npx hardhat",
     "compile": "npx hardhat compile",
@@ -13,12 +13,12 @@
     "node": "npx hardhat node"
   },
   "keywords": [
-    "whitelist",
-    "NFT",
+    "",
+    "",
     "solidity",
     "Lukso"
   ],
-  "author": "Amir Rahimi <atenyun@gmail.com>",
+  "author": "Aratta Labs",
   "license": "ISC",
   "devDependencies": {
     "@lukso/lsp-smart-contracts": "^0.14.0",
